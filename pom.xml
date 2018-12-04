@@ -23,7 +23,7 @@
 				<version>2.3</version>
 				<configuration>
 					<descriptors>
-						<descriptor>zip.xml</descriptor>
+						<descriptor>src/main/zip.xml</descriptor>
 					</descriptors>
 				</configuration>
 				<executions>
