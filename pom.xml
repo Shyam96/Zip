@@ -20,8 +20,9 @@
 				<!-- Assembly Plugin for the win! -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
-				<version>2.3</version>
+				<version>2.5.5</version>
 				<configuration>
+					<appendAssemblyId>false</appendAssemblyId>
 					<descriptors>
 						<descriptor>src/main/zip.xml</descriptor>
 					</descriptors>
